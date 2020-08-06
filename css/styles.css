@@ -1,0 +1,32 @@
+body{
+    background-color:#EAF0F2;
+    height: 100%;
+}
+.header{
+    color:#5F707A
+}
+.day-card-header{
+    background: #ABA0EC
+}
+.day-card{
+    width:14.28%;
+    border:1px solid #ececec;
+}
+.day-card-person-list{
+    height:183px;
+    width: 183px;
+}
+.bg-none{
+    background: #dee4e6;
+    color:#9BA7AE;
+}
+.birthdayContent{
+    
+}
+.child{
+    color:#ffffff
+}
+.birthday-count{
+    font-size: 14px;
+    font-weight: 600;
+}
